@@ -1,7 +1,5 @@
 # Processes-and-interprocess-comuncating-in-C
 
-Certainly! Here's a GitHub article based on the provided information:
-
 ## Interprocess Communication using Message Queues in C
 
 In this tutorial, we'll explore how to implement a simple message queue for interprocess communication using the `msgget`, `msgsnd`, and `msgrcv` functions in C. Message queues provide a reliable and efficient way for processes to exchange data.
